@@ -41,7 +41,7 @@
                                 </cells>
                             </collectionView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="123456" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XeJ-4s-0Uc">
-                                <rect key="frame" x="0.0" y="402" width="414" height="60"/>
+                                <rect key="frame" x="0.0" y="402" width="402" height="60"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="NDH-uq-9VY"/>
                                 </constraints>
@@ -58,7 +58,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Ba4-EG-2W2" secondAttribute="bottom" id="L3R-Ee-saq"/>
                             <constraint firstItem="Ba4-EG-2W2" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="LlU-Gx-zzq"/>
                             <constraint firstItem="XeJ-4s-0Uc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="kdZ-SX-MwQ"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="XeJ-4s-0Uc" secondAttribute="trailing" id="mLB-XT-AJd"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="XeJ-4s-0Uc" secondAttribute="trailing" constant="12" id="mLB-XT-AJd"/>
                         </constraints>
                     </view>
                     <connections>
